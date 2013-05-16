@@ -1,0 +1,6 @@
+I really like Vim, I do have some problems sometimes with various small tidbits. For one, I don't like VimScript, also I've never found a really good way of editing html / javascript / css documents. Somehow the indendation never quite works as I expect. Finally, I've been doing more Scala lately and I wanted to play around with Clojure and both these languages have far stronger Emacs support.
+
+With Evil, there's a really fantastic Emacs library that emulates Vim impressingly well. Even better, the way it is written in Emacs Lisp, it allows for very easy customization.
+So this is my first attempt of switching from Vim to Emacs *for certain tasks*. Every tool for its job, so I'll continue to use Vim for python and shell scripts and probably Objective-C (the Emacs Clang libraries I've found so far really don't shine when it comes to Objective-C support. Well, it is kinda a sad state for Vim, too, just not as sad as on Emacs. I guess most people simply decide to use XCode and are done with it). Emacs then for Scala, Clojure, other Lisps, Javascript/Html, and maybe more. Lets see.
+
+This repository is the result of me toying around with Emacs and trying to understand it. 
